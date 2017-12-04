@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp.Android", "HelloApp\HelloApp.Android\HelloApp.Android.csproj", "{3E25C7CA-733C-4064-B620-96151C678C6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HjackApp.Android", "HjackApp\HjackApp.Android\HjackApp.Android.csproj", "{3E25C7CA-733C-4064-B620-96151C678C6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp", "HelloApp\HelloApp\HelloApp.csproj", "{427881FB-C58E-4071-AA10-545688928797}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HjackApp", "HjackApp\HjackApp\HjackApp.csproj", "{427881FB-C58E-4071-AA10-545688928797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp.iOS", "HelloApp\HelloApp.iOS\HelloApp.iOS.csproj", "{EF18F5CB-3C9A-4A00-9B9C-92C8C0F9F584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HjackApp.iOS", "HjackApp\HjackApp.iOS\HjackApp.iOS.csproj", "{EF18F5CB-3C9A-4A00-9B9C-92C8C0F9F584}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,7 +5,7 @@ using System.Text;
 
 using Xamarin.Forms;
 
-namespace HelloApp
+namespace HjackApp
 {
     public partial class App : Application
     {
@@ -13,7 +13,7 @@ namespace HelloApp
         {
             InitializeComponent();
 
-            MainPage = new HelloApp.MainPage();
+            MainPage = new HjackApp.MainPage();
         }
 
         protected override void OnStart()

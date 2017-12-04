@@ -8,8 +8,8 @@
     <ProjectGuid>{427881FB-C58E-4071-AA10-545688928797}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HelloApp</RootNamespace>
-    <AssemblyName>HelloApp</AssemblyName>
+    <RootNamespace>HjackApp</RootNamespace>
+    <AssemblyName>HjackApp</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Profile111</TargetFrameworkProfile>

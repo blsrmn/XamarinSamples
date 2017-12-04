@@ -9,9 +9,9 @@
     <ProjectGuid>{EF18F5CB-3C9A-4A00-9B9C-92C8C0F9F584}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloApp.iOS</RootNamespace>
+    <RootNamespace>HjackApp.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>HelloApp.iOS</AssemblyName>
+    <AssemblyName>HjackApp.iOS</AssemblyName>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
@@ -135,9 +135,9 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HelloApp\HelloApp.csproj">
-      <Project>{b46cf938-2a92-478c-ab81-7e53d6db5d54}</Project>
-      <Name>HelloApp</Name>
+    <ProjectReference Include="..\HjackApp\HjackApp.csproj">
+      <Project>{427881FB-C58E-4071-AA10-545688928797}</Project>
+      <Name>HjackApp</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
