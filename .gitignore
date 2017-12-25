@@ -6,3 +6,10 @@
 /packages/
 *.user
 *.dll
+*.pdb
+bin/
+obj/
+Debug/
+Release/
+packages/
+Components/
