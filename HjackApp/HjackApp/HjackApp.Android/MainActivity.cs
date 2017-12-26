@@ -39,7 +39,7 @@ namespace HjackApp.Droid
 			GcmClient.CheckManifest(this);
 
 			// Register for push notifications
-			//Log.Info("MainActivity", "Registering...");
+			Log.Info("MainActivity", "Registering...");
 			GcmClient.Register(this, Constants.SenderID);
 		}
 	}

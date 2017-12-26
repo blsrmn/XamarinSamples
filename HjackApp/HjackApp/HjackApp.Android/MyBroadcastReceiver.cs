@@ -46,7 +46,7 @@ namespace HjackApp.Droid
 			Log.Verbose(MyBroadcastReceiver.TAG, "GCM Registered: " + registrationId);
 			RegistrationID = registrationId;
 
-			createNotification("Соединение установлено", "Добро пожаловать, товарищ майор!");
+			//createNotification("Соединение установлено", "Добро пожаловать, товарищ майор!");
 
 			Hub = new NotificationHub(Constants.NotificationHubName, Constants.ListenConnectionString, context);
 			try
